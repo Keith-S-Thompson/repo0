@@ -1,1 +1,9 @@
-ssh://git@github.com/Keith-S-Thompson/repo0.git
+ssh (needs ssh-agent):
+    git@github.com:Keith-S-Thompson/repo0.git
+    ssh://git@github.com/Keith-S-Thompson/repo0.git
+
+https (requires github password):
+    https://Keith-S-Thompson@github.com/Keith-S-Thompson/repo0.git
+
+git read-only:
+    git://github.com/Keith-S-Thompson/repo0.git
