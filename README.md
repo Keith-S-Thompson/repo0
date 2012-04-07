@@ -3,4 +3,4 @@
 * This is the updated README file for repo0.
 * With a <strike>second</strike> third line.
 
-Do relative links work?  [foo.html](foo.html)
+Do relative links work?  [foo.html](repo0/foo.html)
