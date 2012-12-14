@@ -7,7 +7,7 @@ Do relative links work?  [foo.html](repo0/foo.html)  No.
 
 Trying several kinds of links:
 
-- This file: [https://github.com/Keith-S-Thompson/repo0/blob/master/README.md](https://github.com/Keith-S-Thompson/repo0/blob/master/README.md)
-- Full URL: [https://github.com/Keith-S-Thompson/repo0/blob/master/foo.html](https://github.com/Keith-S-Thompson/repo0/blob/master/foo.html)
-- Simple relative file name: [foo.html](foo.html)
-- Longer relative path: [repo0/blob/master/foo.html](repo0/blob/master/foo.html)
+- This file: [https://github.com/Keith-S-Thompson/repo0/blob/master/README.md](https://github.com/Keith-S-Thompson/repo0/blob/master/README.md) (works, but really ugly)
+- Full URL: [https://github.com/Keith-S-Thompson/repo0/blob/master/foo.html](https://github.com/Keith-S-Thompson/repo0/blob/master/foo.html) (works, but really ugly)
+- Simple relative file name: [foo.html](foo.html) (doesn't work)
+- Longer relative path: [repo0/blob/master/foo.html](repo0/blob/master/foo.html) (works, but a bit ugly)
