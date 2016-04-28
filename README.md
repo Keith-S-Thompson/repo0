@@ -11,3 +11,5 @@ Trying several kinds of links:
 - Full URL: [https://github.com/Keith-S-Thompson/repo0/blob/master/foo.html](https://github.com/Keith-S-Thompson/repo0/blob/master/foo.html) (works, but really ugly)
 - Simple relative file name: [foo.html](foo.html) (doesn't work)
 - Longer relative path: [repo0/blob/master/foo.html](repo0/blob/master/foo.html) (works, but a bit ugly)
+
+Haven't touched this in a while.  Here's a new line.
