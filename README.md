@@ -3,11 +3,21 @@
 * This is the updated README file for repo0.
 * With a <strike>second</strike> third line.
 
-Do relative links work?  [foo.html](repo0/foo.html)  No.
+Do relative links work?
+- Like this? [foo.html](foo.html)
+- Like this? [foo.html](repo0/foo.html)
+- Like this? [foo.html](Keith-S_Thompson/repo0/foo.html)
 
-Do relative links work?  [foo.html]  Maybe!
+Do relative links work?  [foo.html]  Yes!
 
 Plain-text [README].
+
+I think I've got relative links worked out.  For example, for the
+above `README` link, I wrote `[README]`, then `[README]: README` as a
+link reference definition (at the bottom of this file).  Likewise for
+`foo.html`.  Making the link text be something other than the name of
+the file should also be possible, but so far I don't have a requirement
+for that.
 
 Trying several kinds of links:
 
@@ -19,3 +29,4 @@ Trying several kinds of links:
 Haven't touched this in a while.  Here's a new line.
 
 [README]: README
+[foo.html]: foo.html
