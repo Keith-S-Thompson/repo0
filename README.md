@@ -7,6 +7,8 @@ Do relative links work?  [foo.html](repo0/foo.html)  No.
 
 Do relative links work?  [foo.html]  Maybe!
 
+Plain-text [README].
+
 Trying several kinds of links:
 
 - This file: [https://github.com/Keith-S-Thompson/repo0/blob/master/README.md](https://github.com/Keith-S-Thompson/repo0/blob/master/README.md) (works, but really ugly)
