@@ -18,9 +18,9 @@ Plain-text [README] -- links to web page.
 
 Plain-text [README](README) -- same as above?
 
-Plain-text [README](master/README) -- Direct link to file?
+Plain-text [README](master/README) -- Direct link to file? -- Nope, 404.
 
-[foo.html](master/foo.html) -- Direct link to HTML file?
+[foo.html](master/foo.html) -- Direct link to HTML file? -- Nope, 404.
 
 I think I've got relative links worked out.  For example, for the
 above `README` link, I wrote `[README]`, then `[README]: README` as a
