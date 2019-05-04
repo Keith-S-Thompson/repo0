@@ -3,12 +3,16 @@
 * This is the updated README file for repo0.
 * With a <strike>second</strike> third line.
 
-Do relative links work?
-- Like this? [foo.html](foo.html)
-- Like this? [foo.html](repo0/foo.html)
-- Like this? [foo.html](Keith-S_Thompson/repo0/foo.html)
+Do relative links work
+- Like this? [foo.html](foo.html) -- Yes, the link is to the web page for the file.
+- Like this? [foo.html](repo0/foo.html) -- No.
+- Like this? [foo.html](Keith-S_Thompson/repo0/foo.html) -- Yes, the link is to the web page for the file.
 
-Do relative links work?  [foo.html]  Yes!
+Do relative links work?  [foo.html]  Yes!  Again, the link is to the web page for the file.
+
+TODO Figure out how to get a relative link to display the file itself
+for plain text, or interpreted as html for `*.html` files.  But this will do for now.
+(My main motivation for this is the `README.md` files for my `fizzbuzz-c` and `fizzbuzz-polyglot` repos.)
 
 Plain-text [README].
 
