@@ -17,3 +17,5 @@ Trying several kinds of links:
 - Longer relative path: [repo0/blob/master/foo.html](repo0/blob/master/foo.html) (works, but a bit ugly)
 
 Haven't touched this in a while.  Here's a new line.
+
+[README]: README
