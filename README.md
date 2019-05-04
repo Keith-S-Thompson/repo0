@@ -14,7 +14,13 @@ TODO Figure out how to get a relative link to display the file itself
 for plain text, or interpreted as html for `*.html` files.  But this will do for now.
 (My main motivation for this is the `README.md` files for my `fizzbuzz-c` and `fizzbuzz-polyglot` repos.)
 
-Plain-text [README].
+Plain-text [README] -- links to web page.
+
+Plain-text [README](README) -- same as above?
+
+Plain-text [README](master/README) -- Direct link to file?
+
+[foo.html](master/foo.html) -- Direct link to HTML file?
 
 I think I've got relative links worked out.  For example, for the
 above `README` link, I wrote `[README]`, then `[README]: README` as a
